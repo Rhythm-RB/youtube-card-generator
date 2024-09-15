@@ -1,3 +1,4 @@
+alert("Us this: GetCard(title,channelName,views,monthsOld,duration,thumbnail)")
 function GetCard(title,channelName,views,monthsOld,duration,thumbnail) {
 
     if(views < 1000000){
